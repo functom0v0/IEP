@@ -36,6 +36,7 @@ def pad(msg):
     global numGroup
     numGroup = len(msg1)
 
+    
 #压缩
 def cpr(v,b,w,w1):
     #分配字
