@@ -20,7 +20,7 @@
 
 实现SM3的生日攻击 
 结果如下:
-![]()
+![](https://github.com/functom0v0/IEP/blob/main/lab1/1.png?raw=true" alt="1.png")
 
 2 implement the Rho method of reduced SM3  
 -------------------------------------------
