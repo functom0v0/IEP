@@ -6,9 +6,9 @@
 
 完成项目
 --------
-1 implement the naïve birthday attack of reduced SM3
-2 implement the Rho method of reduced SM3
-4 do your best to optimize SM3 implementation (software)
+1 implement the naïve birthday attack of reduced SM3  
+2 implement the Rho method of reduced SM3  
+4 do your best to optimize SM3 implementation (software)  
 
 未完成项目
 ---------
