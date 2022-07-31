@@ -18,14 +18,13 @@
 1 implement the naïve birthday attack of reduced SM3
 ----------------------------------------------------
 
-实现SM3的生日攻击   
+birthdayAttack:实现SM3的生日攻击   
 结果如下:  
 ![运行结果](https://github.com/functom0v0/IEP/blob/main/lab1/1.png)
 
 2 implement the Rho method of reduced SM3  
 -------------------------------------------
-实现SM3的Rho攻击:  
-SM3_Rho:  
+SM3_Rho:  实现SM3的Rho攻击   
 strtint_l:  将大小为64的十六进制字符串列表更新为十进制整型列表  
 
 结果如下  
